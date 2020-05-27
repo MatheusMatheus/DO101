@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/versao', (req, res) => {
-    res.send('Versão 2');
+    res.send('Versão 3');
 });
 
 app.get('/matheus', (req, res) => {
